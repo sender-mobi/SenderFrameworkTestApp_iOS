@@ -1,0 +1,57 @@
+PODS:
+  - GoogleSignIn (4.0.2):
+    - GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)
+    - GoogleToolboxForMac/NSString+URLArguments (~> 2.1)
+    - GTMOAuth2 (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - GoogleToolboxForMac/Defines (2.1.1)
+  - GoogleToolboxForMac/NSDictionary+URLArguments (2.1.1):
+    - GoogleToolboxForMac/DebugUtils (= 2.1.1)
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+    - GoogleToolboxForMac/NSString+URLArguments (= 2.1.1)
+  - GoogleToolboxForMac/NSString+URLArguments (2.1.1)
+  - GTMOAuth2 (1.1.4):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.1.11):
+    - GTMSessionFetcher/Full (= 1.1.11)
+  - GTMSessionFetcher/Core (1.1.11)
+  - GTMSessionFetcher/Full (1.1.11):
+    - GTMSessionFetcher/Core (= 1.1.11)
+  - KAProgressLabel (2.1)
+  - libPhoneNumber-iOS (0.9.10)
+  - mp3lame-for-ios (0.1.1)
+  - ObjectiveLuhn (1.0.2)
+  - SAMKeychain (1.5.2)
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
+  - StaticDataTableViewController (2.0.5)
+
+DEPENDENCIES:
+  - GoogleSignIn (= 4.0.2)
+  - KAProgressLabel (= 2.1)
+  - libPhoneNumber-iOS (= 0.9.10)
+  - mp3lame-for-ios (= 0.1.1)
+  - ObjectiveLuhn (= 1.0.2)
+  - SAMKeychain (= 1.5.2)
+  - SDWebImage (= 4.1.0)
+  - StaticDataTableViewController (= 2.0.5)
+
+SPEC CHECKSUMS:
+  GoogleSignIn: d7ad83f13480e1f30453471d00d19b5293ac46af
+  GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
+  GTMOAuth2: 7fc9c10f5c745f4d9850419ea88889fe3baa6b7d
+  GTMSessionFetcher: 5ad62e8200fa00ed011fe5e08d27fef72c5b1429
+  KAProgressLabel: e40767aa2c8dede6b34d21518feb69c14ab29ec9
+  libPhoneNumber-iOS: f721ae4d5854bce60934f9fb9b0b28e8e68913cb
+  mp3lame-for-ios: 4daeb5686885be66438154050e3fe975d4ee1f07
+  ObjectiveLuhn: 7ffbe89856145a65f60ce1fa0f928ce95fdb9509
+  SAMKeychain: 1865333198217411f35327e8da61b43de79b635b
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  StaticDataTableViewController: 7ea8d7bc8c7f0a4e9255a320224462c7346c1d4a
+
+PODFILE CHECKSUM: 793ccfb775a23dae23adffb06f968c7c54204300
+
+COCOAPODS: 1.2.1

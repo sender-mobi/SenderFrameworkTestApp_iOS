@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bc22518-7505-4d0c-8439-93e19bce32a3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/GoogleAppUtilities/Frameworks/frameworks/GoogleAppUtilities.framework/GoogleAppUtilities" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/GoogleSymbolUtilities/Frameworks/frameworks/GoogleSymbolUtilities.framework/GoogleSymbolUtilities" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GTMOAuth2/GTMOAuth2-dummy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GTMOAuth2/GTMOAuth2-prefix.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GTMOAuth2/GTMOAuth2-umbrella.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GTMOAuth2/GTMOAuth2.modulemap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GTMOAuth2/GTMOAuth2.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GTMOAuth2/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-dummy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-prefix.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher.modulemap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GTMSessionFetcher/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-dummy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-prefix.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac.modulemap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/GoogleToolboxForMac/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/KAProgressLabel/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/KAProgressLabel/KAProgressLabel-dummy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/KAProgressLabel/KAProgressLabel-prefix.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/KAProgressLabel/KAProgressLabel-umbrella.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/KAProgressLabel/KAProgressLabel.modulemap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/KAProgressLabel/KAProgressLabel.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/ObjectiveLuhn/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/ObjectiveLuhn/ObjectiveLuhn-dummy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/ObjectiveLuhn/ObjectiveLuhn-prefix.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/ObjectiveLuhn/ObjectiveLuhn-umbrella.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/ObjectiveLuhn/ObjectiveLuhn.modulemap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/ObjectiveLuhn/ObjectiveLuhn.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SAMKeychain/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SAMKeychain/SAMKeychain-dummy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SAMKeychain/SAMKeychain-prefix.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SAMKeychain/SAMKeychain-umbrella.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SAMKeychain/SAMKeychain.modulemap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SAMKeychain/SAMKeychain.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/SDWebImage-dummy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/SDWebImage-prefix.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/SDWebImage.modulemap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/SDWebImage.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/StaticDataTableViewController/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/StaticDataTableViewController/StaticDataTableViewController-dummy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/StaticDataTableViewController/StaticDataTableViewController-prefix.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/StaticDataTableViewController/StaticDataTableViewController-umbrella.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/StaticDataTableViewController/StaticDataTableViewController.modulemap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/StaticDataTableViewController/StaticDataTableViewController.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/libPhoneNumber-iOS/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/libPhoneNumber-iOS/libPhoneNumber-iOS-dummy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/libPhoneNumber-iOS/libPhoneNumber-iOS-prefix.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/libPhoneNumber-iOS/libPhoneNumber-iOS-umbrella.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/libPhoneNumber-iOS/libPhoneNumber-iOS.modulemap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/libPhoneNumber-iOS/libPhoneNumber-iOS.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/BitcoinMnemonicWords.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/DefaultBar.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/DeviceList.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/ca.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/cs.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/da.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/de.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/el.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/en.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/en_GB.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/es.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/es_MX.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/fi.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/fr.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/google.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/google@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/google@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/he.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/hr.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/hu.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/id.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/it.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/ja.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/ko.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/ms.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/nb.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/nl.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/pl.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/pt.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/pt_BR.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/pt_PT.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/ro.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/ru.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/sk.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/sv.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/th.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/tr.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/uk.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/vi.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/zh_CN.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/GoogleSignIn.bundle/zh_TW.lproj/GoogleSignIn.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ActionCellModel.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/AddContactViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/AddPhotoViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/AddressBook.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/AudioButton.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/AudioRecorder.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCAddress.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCBase58.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCBigNumber.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCBlockchainInfo.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCCurvePoint.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCData.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCEncryptedMessage.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCErrors.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCFancyEncryptedMessage.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCKey.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCKeychain.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCMnemonic.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCOpcode.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCProtocolSerialization.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCScript.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCScriptMachine.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCSignatureHashType.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCTransaction.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCTransactionBuilder.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCTransactionInput.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCTransactionOutput.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BTCUnitsAndLimits.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BarItem.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BarModel.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BitcoinManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BitcoinSyncManagerBuilder.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BitcoinUtils.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/BitcoinWallet.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CalloutMapAnnotationView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CameraManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CellProtoType.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatCellContainerView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatListViewController+UpdatesHandling.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatListViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatMember+CoreDataClass.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatMember+CoreDataProperties.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatPickerManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatPickerManagerOneCompany.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatPickerOneCompanyViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatPickerViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatSettingsViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatTableViewCell.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatViewController+UpdatesHandling.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ChatViewModel.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CheckAddressBookChanges.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ColVewContainer.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CometBackgroundManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CometController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CometTransport.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CompanyCard+CoreDataClass.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CompanyCard+CoreDataProperties.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CompanyPageViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ComplainPopUp.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ConsoleCaclulator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/Contact.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ContactPageViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ConteinerProtocol.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CoreDataBaseManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CoreDataFacade.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/CountryListManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/DefaultContactImageGenerator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/Dialog+CoreDataProperties.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/Dialog.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/DialogMembersViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/DialogSetting.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ECCWorker.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/EditChatViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/EnterNameViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/EnterOTPViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/EnterPhoneViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/EntityViewModel.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/File.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/FileDownloadInfo.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/FileManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/FileOperator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/GlobalSearchContactViewModel.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ImageDownloader.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ImagePresenter.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ImagesManipulator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/Item.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/MVGoogleSignWorker.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/MWAlertFacade.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/MWAlertPlayer.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/MWLocationFacade.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/MWLocationManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/MainButtonCell.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/MainConteinerModel.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/Message.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/MessageEmpy.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/MessagesGap+CoreDataProperties.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/MessagesGap.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/MovieViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/NS+BTCBase58.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/NSBundle+SenderFrameworkLoading.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/NSData+BTCData.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/NSData+CommonCrypto.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/NSData+base64.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/NSDictionaryToURLString.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/NSString(common_addition).h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/NSString+ConvertToLatin.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/NSString+PBMessages.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/NSString+WebService.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/NSURL+PercentEscapes.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/Owner.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBButtonInFormView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBCheckBoxModel.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBCheckBoxView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBChekBoxSelectView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBConsoleConstants.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBConsoleManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBConsoleView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBImageView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBInputTextView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBLabelView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBLoadFileView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBMapView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBPopUpSelector.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBRadioButtonView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBRadioSelectView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBSelectedView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBSubviewFacade.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/PBTextAreaView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ParamsFacade.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ProgressView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/QRDisplayViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/QRScanView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/RecordAudioView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/RegistrationViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/RequestHolder.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/RightPanelCell.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SBCoordinator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SBItemView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SBItemView_protected.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SBTextItemView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SecGenerator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SenderConstants.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SenderCore.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SenderFramework-PrefixHeader.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SenderFramework-Swift.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SenderFramework.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SenderFrameworkGlobals.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SenderJsonConvertrer.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SenderNotifications.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SenderQRCodeGenerator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SenderRequestBuilder.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SenderStylePalette.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ServerFacade.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/Settings.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SettingsViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ShowMapViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/StickerButton.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/StickerView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/SuperChatListViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/TermsConditionsViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UDServer.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UIActionSheet+Blocks.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UIAlertView+CompletionHandler.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UIImage+Alpha.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UIImage+Resize.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UIImage+RoundedCorner.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UIImage+SenderFrameworkLoading.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UIImage+animatedGIF.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UIImageView (UITextFieldBackground).h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UIStoryboard+SenderFrameworkLoading.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UIView+ResizeAnimated.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UIView+subviews.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UnreadMessagesCounter.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/UserProfileViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/ValueSelectTableViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/VideoDownloader.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/VideoManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/WaitForConfirmViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/WaitForIVRViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/WelcomeViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Headers/base64.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Modules/SenderFramework.swiftmodule/arm.swiftdoc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Modules/SenderFramework.swiftmodule/arm.swiftmodule" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Modules/SenderFramework.swiftmodule/arm64.swiftdoc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Modules/SenderFramework.swiftmodule/arm64.swiftmodule" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Modules/SenderFramework.swiftmodule/i386.swiftdoc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Modules/SenderFramework.swiftmodule/i386.swiftmodule" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Modules/SenderFramework.swiftmodule/x86_64.swiftdoc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Modules/SenderFramework.swiftmodule/x86_64.swiftmodule" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Modules/module.modulemap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/SenderFramework" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/Silent.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/SipCall.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/StarWars.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/cert.der" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/en.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/kassa.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/ru.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/VersionInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-001.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-002.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-003.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-004.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-005.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-006.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-007.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-008.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-009.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-010.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-011.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-012.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-013.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-014.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-015.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-016.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-017.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-018.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-019.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-020.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-021.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-022.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-023.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-024.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-025.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-026.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-027.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-028.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-029.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase.momd/senderBase-029.omo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase2.momd/VersionInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase2.momd/senderBase2-001.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase2.momd/senderBase2-001.omo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/senderBase2.momd/senderBase2.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/serviceDB.momd/VersionInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/serviceDB.momd/serviceDB.mom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/sl.caf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/sw.caf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/tk.caf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFramework.framework/uk.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Assets.car" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/AudioButton.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Base.lproj/SenderFramework.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinMnemonicWordCell.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/4Dt-go-JUL-view-qqt-WQ-6MP.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/BitcoinResolveConflictViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/BitcoinSyncExportWalletViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/BitcoinSyncImportWalletViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/BitcoinSyncMainViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/BitcoinSyncNewWalletViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/BitcoinSyncPasswordEnterViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/etR-ZO-SAv-view-kLy-Ns-wp6.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/oSj-Oc-BUw-view-ZDm-4v-PcQ.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/rDP-CZ-huq-view-sza-rI-4OB.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/wfY-a7-uud-view-3XK-NE-2Qr.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/BitcoinSynchronization.storyboardc/xft-H7-NRc-view-uKS-qR-vT7.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatCellContainerView.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatPickerViewController.storyboardc/ChatPickerOneCompanyViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatPickerViewController.storyboardc/ChatPickerViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatPickerViewController.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatPickerViewController.storyboardc/SenderFramework.BlockedUsersView.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatPickerViewController.storyboardc/caT-rZ-fAQ-view-cJh-Gz-dTO.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatPickerViewController.storyboardc/eGJ-wq-h8A-view-opO-zR-XOh.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatPickerViewController.storyboardc/zdV-45-9KC-view-UKh-X6-ZfY.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatSearchActionCell.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatSearchContactHeader.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatSearchSeparatorHeader.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatTableViewCell.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatViewController.storyboardc/56V-15-hRQ-view-jRG-1w-jUL.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatViewController.storyboardc/6qs-zu-bi2-view-7CN-OW-PO1.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatViewController.storyboardc/9KD-Op-9D6-view-V9y-hp-5XJ.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatViewController.storyboardc/ChatSettingsViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatViewController.storyboardc/ChatViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatViewController.storyboardc/DialogMembersViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatViewController.storyboardc/EditChatViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatViewController.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatViewController.storyboardc/NavigationController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ChatViewController.storyboardc/Urv-6b-ea2-view-qq8-ku-nCV.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ComplainPopUp.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ContactPageViewController.storyboardc/3a6-bu-VEr-view-LVl-C3-71t.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ContactPageViewController.storyboardc/7Z1-9R-rFx-view-vm1-QT-c9f.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ContactPageViewController.storyboardc/CompanyPageViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ContactPageViewController.storyboardc/ContactPageViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ContactPageViewController.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ContactPageViewController.storyboardc/NavigationController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ContactViews.storyboardc/AUb-NF-GJZ-view-5cn-XR-oHR.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ContactViews.storyboardc/AddContactViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ContactViews.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Emoji.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/EmojiLauncher.storyboardc/EmojiLauncherViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/EmojiLauncher.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/EmojiLauncher.storyboardc/sso-AN-flp-view-gyT-vI-TR5.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/GuestView.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Main.storyboardc/ChatListViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Main.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Main.storyboardc/MbW-oM-ptM-view-eID-DD-hsc.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Main.storyboardc/UserProfileViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Main.storyboardc/inC-cR-MyR-view-FXs-R6-D0q.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/OverlayCameraView.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/OwnerView.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ProgressView.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/QRDisplayViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/QRScannerViewController.storyboardc/B0X-GO-NpF-view-19K-WR-bzy.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/QRScannerViewController.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/QRScannerViewController.storyboardc/SenderFramework.QRScannerViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/QRScreenViewController.storyboardc/7Qf-gZ-WTX-view-oas-z8-69w.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/QRScreenViewController.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/QRScreenViewController.storyboardc/SenderFramework.QRScreenViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/RecordAudioView.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/2Aa-WL-Dcg-view-Hv3-yq-r1I.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/7AS-TR-ZKy-view-PYJ-Z2-xJg.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/AddPhotoViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/CSZ-6S-S2i-view-kYr-jR-ALe.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/EnterNameViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/EnterOTPViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/EnterPhoneViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/GRt-4l-IXu-view-Ja4-lT-1Qb.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/TermsConditionsViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/UITableViewController-7AS-TR-ZKy.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/WaitForConfirmViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/WaitForIVRViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/e2B-XA-GYo-view-BTb-bA-z3I.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/kF2-Wx-QDa-view-wTy-5g-Ywm.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/q5E-i2-KRO-view-0Vp-2d-cM9.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Registration.storyboardc/tpP-MF-f5K-view-oeU-DB-c48.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/SBCoordinator.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/SBItemView.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/SBTextItemView.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Settings.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Settings.storyboardc/P5h-j1-Omd-view-KY2-La-est.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Settings.storyboardc/SenderFramework.BitcoinSettingsViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Settings.storyboardc/SettingsViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Settings.storyboardc/xO8-kU-SAU-view-8ZP-p5-ruU.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ShowMapViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/StickerView.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/Stickers.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/SuperChatListViewController.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/SuperChatListViewController.storyboardc/JA8-sl-YXt-view-TWF-Dc-ztC.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/SuperChatListViewController.storyboardc/SuperChatListViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/TypingIndicatorView.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/UsePhotoViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/UserInfoEditor.storyboardc/1CL-l3-WGf-view-pwR-YP-Zyb.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/UserInfoEditor.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/UserInfoEditor.storyboardc/SenderFramework.UserInfoEditorViewController.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/en.lproj/SenderFramework.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/ru.lproj/SenderFramework.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/terms_and_conditions_en.rtf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/terms_and_conditions_en.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/terms_and_conditions_ru.rtf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/terms_and_conditions_ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/terms_and_conditions_uk.rtf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/terms_and_conditions_uk.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SenderFrameworkResources.bundle/uk.lproj/SenderFramework.strings" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/GoogleSignIn" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/GoogleSignIn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/google.png" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/google.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/google@2x.png" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/google@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/google@3x.png" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/google@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podfile" afterPath="$PROJECT_DIR$/Podfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podfile.lock" afterPath="$PROJECT_DIR$/Podfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GTMSessionFetcher/Source/GTMReadMonitorInputStream.m" afterPath="$PROJECT_DIR$/Pods/GTMSessionFetcher/Source/GTMReadMonitorInputStream.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h" afterPath="$PROJECT_DIR$/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.m" afterPath="$PROJECT_DIR$/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h" afterPath="$PROJECT_DIR$/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.m" afterPath="$PROJECT_DIR$/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/CHANGELOG.md" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GoogleSignIn.h" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GoogleSignIn.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Modules/module.modulemap" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Modules/module.modulemap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/Info.plist" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ca.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ca.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/cs.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/cs.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/da.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/da.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/de.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/de.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/el.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/el.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/en.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/en.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/en_GB.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/en_GB.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/es.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/es.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/es_MX.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/es_MX.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/fi.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/fi.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/fr.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/fr.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/he.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/he.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/hr.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/hr.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/hu.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/hu.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/id.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/id.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/it.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/it.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ja.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ja.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ko.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ko.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ms.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ms.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/nb.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/nb.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/nl.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/nl.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pl.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pl.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pt.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pt.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pt_BR.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pt_BR.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pt_PT.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pt_PT.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ro.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ro.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ru.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ru.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/sk.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/sk.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/sv.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/sv.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/th.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/th.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/tr.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/tr.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/uk.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/uk.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/vi.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/vi.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/zh_CN.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/zh_CN.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/zh_TW.lproj/GoogleSignIn.strings" afterPath="$PROJECT_DIR$/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/zh_TW.lproj/GoogleSignIn.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Manifest.lock" afterPath="$PROJECT_DIR$/Pods/Manifest.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/LICENSE" afterPath="$PROJECT_DIR$/Pods/SDWebImage/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/README.md" afterPath="$PROJECT_DIR$/Pods/SDWebImage/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDImageCache.h" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDImageCache.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDImageCache.m" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDImageCache.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDImageCacheConfig.h" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDImageCacheConfig.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDImageCacheConfig.m" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDImageCacheConfig.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageManager.m" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageManager.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImage+GIF.m" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImage+GIF.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIView+WebCache.m" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIView+WebCache.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SenderFrameworkTest/Pods-SenderFrameworkTest-acknowledgements.markdown" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SenderFrameworkTest/Pods-SenderFrameworkTest-acknowledgements.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SenderFrameworkTest/Pods-SenderFrameworkTest-acknowledgements.plist" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SenderFrameworkTest/Pods-SenderFrameworkTest-acknowledgements.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SenderFrameworkTest/Pods-SenderFrameworkTest-frameworks.sh" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SenderFrameworkTest/Pods-SenderFrameworkTest-frameworks.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SenderFrameworkTest/Pods-SenderFrameworkTest-resources.sh" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SenderFrameworkTest/Pods-SenderFrameworkTest-resources.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SenderFrameworkTest/Pods-SenderFrameworkTest.debug.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SenderFrameworkTest/Pods-SenderFrameworkTest.debug.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SenderFrameworkTest/Pods-SenderFrameworkTest.release.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SenderFrameworkTest/Pods-SenderFrameworkTest.release.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/README.md" afterPath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/libPhoneNumber/NBMetadataCore.m" afterPath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/libPhoneNumber/NBMetadataCore.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/libPhoneNumber/NBMetadataCoreTest.h" afterPath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/libPhoneNumber/NBMetadataCoreTest.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/libPhoneNumber/NBMetadataCoreTest.m" afterPath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/libPhoneNumber/NBMetadataCoreTest.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/libPhoneNumber/NBMetadataCoreTestMapper.m" afterPath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/libPhoneNumber/NBMetadataCoreTestMapper.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/libPhoneNumber/NBPhoneNumberUtil.h" afterPath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/libPhoneNumber/NBPhoneNumberUtil.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/libPhoneNumber/NBPhoneNumberUtil.m" afterPath="$PROJECT_DIR$/Pods/libPhoneNumber-iOS/libPhoneNumber/NBPhoneNumberUtil.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SenderFrameworkTest.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/SenderFrameworkTest.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SenderFrameworkTest.xcworkspace/contents.xcworkspacedata" afterPath="$PROJECT_DIR$/SenderFrameworkTest.xcworkspace/contents.xcworkspacedata" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m" afterPath="$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SenderFrameworkTest/ViewController.m" afterPath="$PROJECT_DIR$/SenderFrameworkTest/ViewController.m" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulatoriPhone_7_Plus_10.3_x86_64_1" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AppDelegate.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#146#169#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppDelegate.m" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="42" column="55" lean-forward="false" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewController.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/ViewController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="e#149#175#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UNUserNotificationCenter.h" pinned="false" current-in-tab="false">
+        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UNUserNotificationCenter.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1144">
+              <caret line="88" column="8" lean-forward="false" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Podfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Podfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewController.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/ViewController.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>router</find>
+      <find>getSenderChat</find>
+      <find>resume</find>
+      <find>start</find>
+      <find>o</find>
+      <find>author</find>
+      <find>unreadc</find>
+      <find>unreadco</find>
+      <find>unreadcou</find>
+      <find>unreadcounte</find>
+      <find>unreadcount</find>
+      <find>setupwi</find>
+      <find>willenter</find>
+      <find>issyn</find>
+      <find>finishSenderAuthorization</find>
+      <find>modall</find>
+      <find>senderCoreDidFailSynchronization</find>
+      <find>startapp</find>
+      <find>voipre</find>
+      <find>senderui =</find>
+      <find>remo</find>
+      <find>showChatWithRemoteNotification</find>
+      <find>senderui</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SenderFrameworkTest/Info.plist" />
+        <option value="$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.h" />
+        <option value="$PROJECT_DIR$/SenderFrameworkTest/ViewController.h" />
+        <option value="$PROJECT_DIR$/Podfile" />
+        <option value="$PROJECT_DIR$/SenderFrameworkTest/ViewController.m" />
+        <option value="$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="Pods" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SenderFrameworkTest" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SenderFrameworkTest" type="1d218c8b:XcodeProjectNode" />
+              <item name="SenderFrameworkTest" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="SenderFrameworkTest" />
+    <property name="com.jetbrains.cidr.execution.build.XcodeMessageFilterConfiguration.WARNING" value="false" />
+    <property name="com.jetbrains.cidr.execution.build.XcodeMessageFilterConfiguration.NOTE" value="false" />
+    <property name="com.jetbrains.cidr.execution.build.XcodeMessageFilterConfiguration.INFO" value="false" />
+    <property name="com.jetbrains.cidr.execution.build.XcodeMessageFilterConfiguration.GENERIC" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SenderFrameworkTest">
+    <configuration name="SenderFrameworkTest" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SenderFrameworkTest" TARGET_NAME="SenderFrameworkTest" CONFIG_NAME="Debug" SCHEME_NAME="SenderFrameworkTest" RUN_TARGET_PROJECT_NAME="SenderFrameworkTest" RUN_TARGET_NAME="SenderFrameworkTest" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bc22518-7505-4d0c-8439-93e19bce32a3" name="Default" comment="" />
+      <created>1497348288818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497348288818</updated>
+      <workItem from="1497348290628" duration="11112000" />
+      <workItem from="1497442755058" duration="1278000" />
+      <workItem from="1497449172086" duration="3241000" />
+      <workItem from="1498804426783" duration="1499000" />
+      <workItem from="1498825403578" duration="586000" />
+      <workItem from="1498827581124" duration="1280000" />
+      <workItem from="1498832497297" duration="596000" />
+      <workItem from="1499842383107" duration="4665000" />
+      <workItem from="1499847187244" duration="9172000" />
+      <workItem from="1499929818263" duration="2000" />
+      <workItem from="1499929918420" duration="624000" />
+      <workItem from="1500018295381" duration="1312000" />
+      <workItem from="1501069127415" duration="910000" />
+      <workItem from="1504248616482" duration="952000" />
+      <workItem from="1504599964638" duration="1000" />
+      <workItem from="1504617093778" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41548000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1858873" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25877193" sideWeight="0.5108593" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24929178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294956" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23369566" sideWeight="0.4891407" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32608697" sideWeight="0.49291784" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="54" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/ViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="80" lean-forward="false" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFramework.framework/Headers/SenderCore.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#146#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/ViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="55" column="76" lean-forward="false" selection-start-line="55" selection-start-column="76" selection-end-line="55" selection-end-column="76" />
+          <folding>
+            <element signature="e#149#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/ViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="80" lean-forward="false" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFramework.framework/Headers/SenderCore.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#146#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/ViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="55" column="76" lean-forward="false" selection-start-line="55" selection-start-column="76" selection-end-line="55" selection-end-column="76" />
+          <folding>
+            <element signature="e#149#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/ViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="80" lean-forward="false" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1014">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#146#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/ViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="80" lean-forward="false" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/ViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="e#149#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/main.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/main.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/main.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/main.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFramework.framework/Headers/ServerFacade.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="45" column="11" lean-forward="false" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sender_iphone/SENDER/SenderFramework/Server/Server Facade/ServerFacade.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="696" column="0" lean-forward="false" selection-start-line="696" selection-start-column="0" selection-end-line="696" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sender_iphone/SENDER/SenderFramework/Server/Comet/CometController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1486">
+          <caret line="604" column="27" lean-forward="false" selection-start-line="604" selection-start-column="27" selection-end-line="604" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sender_iphone/SENDER/SenderFramework/Authorization/Server/SenderFullAuthorizationServer.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3120">
+          <caret line="240" column="0" lean-forward="false" selection-start-line="240" selection-start-column="0" selection-end-line="240" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sender_iphone/SENDER/SenderFramework/Synchronization/Synchronization Manager/SynchronizationManager.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sender_iphone/SENDER/SenderFramework/Authorization/Interactor/SenderSSOAuthorizationInteractor.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sender_iphone/SENDER/SenderFramework/Authorization/Facade/MWSenderAuthorizationFacade.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="227" column="0" lean-forward="false" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sender_iphone/SENDER/SenderFramework/Views/Call Robot/Module/CallRobotModule.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="33" column="80" lean-forward="false" selection-start-line="33" selection-start-column="80" selection-end-line="33" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sender_iphone/SENDER/SenderFramework/Chat Editing/ChatEditManagerInput.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="59" column="23" lean-forward="true" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sender_iphone/SENDER/SenderFramework/SenderCore.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="395" column="0" lean-forward="true" selection-start-line="395" selection-start-column="0" selection-end-line="395" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/Info.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="62" column="15" lean-forward="true" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFramework.framework/Headers/Owner.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="43" column="49" lean-forward="true" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/objc/NSObjCRuntime.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="69" column="11" lean-forward="false" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFramework.framework/Headers/CoreDataFacade.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="51" column="37" lean-forward="true" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/Availability.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="157" column="8" lean-forward="false" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFramework.framework/Headers/Dialog+CoreDataProperties.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="33" column="50" lean-forward="false" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFramework.framework/Headers/Dialog.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFramework.framework/Headers/SenderFramework-Swift.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="751" column="21" lean-forward="false" selection-start-line="751" selection-start-column="21" selection-end-line="751" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/main.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFramework.framework/Headers/SenderCore.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2158">
+          <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#146#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/ViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UNUserNotificationCenter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="88" column="8" lean-forward="false" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/ViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#149#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SenderFrameworkTest/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="42" column="55" lean-forward="false" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+framework module StaticDataTableViewController {
+  umbrella header "StaticDataTableViewController-iOS8.2-umbrella.h"
+
+  export *
+  module * { export * }
+}

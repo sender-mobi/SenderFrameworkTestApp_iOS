@@ -1,0 +1,6 @@
+framework module Pods_SenderFramework {
+  umbrella header "Pods-SenderFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

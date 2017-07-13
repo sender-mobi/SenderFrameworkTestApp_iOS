@@ -1,0 +1,788 @@
+
+
+"about_me" = "Про мене";
+
+"accept_ios" = "Застосувати";
+
+"add" = "Додати";
+
+"add_contact_hing" = "Додати контакт";
+
+"add_friend" = "Співрозмовник";
+
+"add_members_btn_hint" = "Переглянути та додати учасників";
+
+"add_participants_ph" = "Додати учасників...";
+
+"add_photo_ios" = "Додайте фото";
+
+"add_voice_message" = "Додати аудіоповідомлення";
+
+"add_voice_message_ios" = "Аудіоповідомлення";
+
+"address" = "Адреса";
+
+"adult_content_ios" = "18+ контент";
+
+"app_name" = "Sender";
+
+"attach_file" = "Прикріпити файл";
+
+"attach_file_hint" = "Надіслати файл";
+
+"audio_msg_ph" = "[аудіо]";
+
+"auth_undef_err" = "Неможливо перевірити статус авторизації. Немає підключення до сервера";
+
+"blacklist_ios" = "Чорний список";
+
+"browser_tab_new_message_title" = "Нове повідомлення";
+
+"call" = "Зателефонувати";
+
+"camera_not_found_err" = "Немає камери на цьому пристрої";
+
+"cancel" = "Скасувати";
+
+"done" = "Готово";
+
+"cancel_recording" = "Скасувати запис і закрити";
+
+"category" = "Категорія";
+
+"change_language" = "Мова інтерфейсу";
+
+"change_photo" = "Змінити фото";
+
+"chat_id_err" = "Помилка id чату";
+
+"chat_is_empty" = "Чат порожній";
+
+"chat_members_title" = "Учасники чату";
+
+"chats_gcm" = "діалогах";
+
+"chatting" = "Написати";
+
+"check_connect_to_internet_msg" = "Перевірте підключення до Інтернету.";
+
+"clear" = "Очистити";
+
+"clear_history_ios" = "Очистити історію";
+
+"clear_history_message_ios" = "Ця дія видалить всю вашу історію діалогів, включаючи медіафайли з пристрою";
+
+"clear_history_question_ios" = "Ви впевнені?";
+
+"clear_media_ios" = "Очистити медіакеш";
+
+"click_and_talk" = "Натисніть і говоріть";
+
+"click_and_talk_ios" = "Tap & Talk";
+
+"error_mic_not_available" = "Мікрофон недоступний. \n Дозвольте додатку використовувати мікрофон в налаштуваннях вашого пристрою.";
+
+"error_mic_not_available_go_to_settings" = "Перейти в налаштування";
+
+"error_camera_not_available" = "Камера недоступна. \nДозвольте додатку використовувати камеру в налаштуваннях вашого пристрою.";
+
+"error_camera_not_available_go_to_settings" = "Перейти в налаштування";
+
+"error_location_not_available" = "Геопозіція недоступна. \nДозвольте додатку використовувати геопозіцію в налаштуваннях вашого пристрою.";
+
+"error_location_not_available_go_to_settings" = "Перейти в налаштування";
+
+"go_to_settings_question" = "Перейти в налаштування?";
+
+"close" = "Закрити";
+
+"confirm_auth_detail_ios" = "Підтвердження авторизації було надіслано на ваш авторизований пристрій %@";
+
+"confirm_auth_ios" = "Підтвердьте реєстрацію";
+
+"contact_list_empty" = "Список контактів для переказів порожній";
+
+"contacts" = "Контакти";
+
+"contacts_tab_title" = "Контакти";
+
+"continue_recording" = "для продовження запису натисніть Play";
+
+"coords_msg_ph" = "[координати]";
+
+"crop_picture" = "Обрізати фото";
+
+"cylinder_ios" = "Стікери";
+
+"delete_contact" = "Видалити контакт?";
+
+"delete_contact_message_ios" = "Ви впевнені, що хочете видалити користувача зі списку контактів?";
+
+"delete_contact_specific_ios" = "Видалити чат та контакт %@?";
+
+"delete_contact_specific_message_ios" = "Ви впевнені, що хочете видалити чат з користувачем %@?";
+
+"delete_ios" = "Видалити";
+
+"delete_photo_ios" = "Видалити фото";
+
+"desktop_notifications_setting_btn" = "Повідомлення, що з'являються";
+
+"development_ios" = "Розробка";
+
+"device_without_camera_ios" = "Неможливо запустити камеру";
+
+"dialogs_tab_title" = "Діалоги";
+
+"disable_device_ios" = "Мої пристрої";
+
+"edit" = "Редагувати";
+
+"email_ios" = "E-mail";
+
+"emoji_nature" = "Природа";
+
+"emoji_objects" = "Об'єкти";
+
+"emoji_people" = "Люди";
+
+"emoji_places" = "Місця";
+
+"emoji_stickers" = "Стикери";
+
+"emoji_symbols" = "Символи";
+
+"emoji_used" = "Часто вживані";
+
+"empty_dialog" = "Порожній чат";
+
+"enable_logs" = "Логування";
+
+"enter_message_ph" = "Введіть повідомлення";
+
+"enter_name_ios" = "Введіть своє ім'я";
+
+"enter_otp_message_ios" = "Введіть смс-код";
+
+"enter_otp_ios" = "Введіть надіслане вам SMS";
+
+"enter_name_message_ios" = "Введіть ім'я";
+
+"wrong_name_format_title" = "Невірний формат імені";
+
+"wrong_name_format_message" = "Будь ласка, введіть ім'я, що містить хоча б один символ";
+
+"enter_your_name" = "Введіть ім'я";
+
+"enter_your_status" = "Введіть статус";
+
+"error_ios" = "Помилка";
+
+"exit_not_support" = "Вихід з чату поки що не підтримується сервером";
+
+"file_msg_ph" = "[файл]";
+
+"file_not_supported_err" = "Цей формат файлу не підтримується!";
+
+"find" = "Знайти";
+
+"form_msg_ph" = "[форма]";
+
+"general_ios" = "Загальні";
+
+"group_chat_def_desc" = "Груповий чат";
+
+"help" = "ДОПОМОГА";
+
+"i_am_here" = "Я тут";
+
+"image_download_btn" = "Завантажити";
+
+"image_msg_ph" = "[фото]";
+
+"initial_app_err" = "Помилка ініціалізації додатка";
+
+"interlocutor_ios" = "Співрозмовник";
+
+"invite" = "Запросити";
+
+"invite_ios" = "Запросити в Sender";
+
+"invite_text" = "Привіт, я користуюся Sender. Це дуже зручний додаток для надсилання безкоштовних повідомлень, поповнення мобільного телефону тощо. https://apps.sender.mobi";
+
+"language_ios" = "Мова ";
+
+"languange_change_ios" = "Зміна мови";
+
+"last_updated_ios" = "Останнє оновлення:";
+
+"leave_chat_btn" = "Вийти з чату";
+
+"leave_chat_ios" = "Покинути чат";
+
+"leave_chat_msg" = "Ви дійсно хочете вийти з чату?";
+
+"license_ios" = "Ліцензія";
+
+"load_image_err" = "Неможливо завантажити картинку";
+
+"loading_contacts" = "Завантажую контакти...";
+
+"loading_image_ios" = "Картинка завантажується \nНатиснiть, щоб перезавантажити.";
+
+"loading_msg" = "Завантаження...";
+
+"loading_video_ios" = "Відео завантажується";
+
+"location_ios" = "Розміщення";
+
+"log_out" = "Завершити сеанс";
+
+"logout_wait_msg" = "Вихід...";
+
+"message_filter_ios" = "Фільтр повідомлень";
+
+"money" = "Гроші";
+
+"my_devices" = "Мої пристрої";
+
+"my_wallet" = "Мій гаманець";
+
+"my_wallet_ios" = "Гаманець";
+
+"need_to_restart_ios" = "Щоб застосувати зміни, потрібно перезапустити додаток";
+
+"never_ios" = "Ніколи";
+
+"new_audio_msg_gcm" = "Нове аудіоповідомлення";
+
+"new_chat_name_ph" = "Новий чат";
+
+"new_contact_name_ph" = "Ім'я...";
+
+"new_contact_phone_ph" = "Телефон (380XXXXXXXXX)";
+
+"new_image_msg_gcm" = "Вам надіслали картинку";
+
+"new_messages" = "Нові повідомлення";
+
+"new_messages_in_gcm" = "нових повідомлень у";
+
+"new_msg_gcm" = "Нове повідомлення";
+
+"new_stream_registered_msg" = "Sender відкрито в іншій вкладці.";
+
+"new_user" = "Новий користувач";
+
+"new_version_msg" = "Вийшла нова версія Sender. Оновіть сторінку.";
+
+"new_version_msg_ios" = "У Вас стоїть стара версія Sender.\nВи можете завантажити нову версію з сайта sender.mobi";
+
+"no" = "Ні";
+
+"not_received_otp_ios" = "я не отримав SMS-код";
+
+"notification_setting" = "Сповіщення";
+
+"notify_user_add_to_chat" = "%@ додав у чат %@";
+
+"notify_user_add_to_chat_with_you" = "%@ додав у чат вас і %@";
+
+"notify_user_add_to_chat_you" = "%@ додав вас у чат";
+
+"notify_user_del_from_chat" = "%@ видалив з чату %@";
+
+"notify_user_del_from_chat_with_you" = "%@ видалив з чату вас і %@";
+
+"notify_user_del_from_chat_you" = "%@ видалив вас із чату";
+
+"notify_user_leave_chat" = "%@ залишив чат";
+
+"notify_you_add_to_chat" = "Ви додали в чат %@";
+
+"notify_you_del_from_chat" = "Ви видалили з чату %@";
+
+"notify_you_leave_chat" = "Ви вийшли з чату";
+
+"ok_ios" = "Ок";
+
+"p2p_chat_def_desc" = "Чат";
+
+"pause" = "Пауза...";
+
+"pb_license_ios" = "PJSC СВ \"PrivatBank\" \nNBU License No.22 as of 05.10.2011";
+
+"personal_backgrounds_ios" = "Персоналізовані фони";
+
+"phone_number" = "Номер телефону";
+
+"phone_number_unavailable_ios" = "Номер приховано";
+
+"phone_number_undefined_err" = "Помилка! Номер телефону для цього користувача не визначено.";
+
+"phone_title_ios" = "Зазначте номер телефону для реєстрації";
+
+"phone_title_ios" = "Ласкаво просимо в Sender.\nВведіть номер телефону і натисніть \"Продовжити\".";
+
+"photo_will_be_removed" = "Фото буде видалено на всіх пристроях. Продовжити?";
+
+"play" = "Грати";
+
+"playing" = "Відтворення...";
+
+"processing" = "Опрацювання...";
+
+"pull_to_refresh_chat_history_ios" = "Потягніть, щоб оновити історію чату";
+
+"pull_to_refresh_ios" = "Потягніть, щоб оновити ";
+
+"pull_to_refresh_loading_chat_history_ios" = "Завантажується";
+
+"qr" = "QR";
+
+"qr_finished_scan_ios" = "Код надіслано на опрацювання";
+
+"ready_ios" = "ГОТОВО";
+
+"recharge_phone" = "Поповнити телефон";
+
+"recording" = "Іде запис...";
+
+"refil_mobile_ios" = "Поповнити телефон";
+
+"register_ios" = "Продовжити";
+
+"release_to_refresh_chat_history_ios" = "Відпустіть, щоб оновити";
+
+"remove" = "Видалити";
+
+"remove_photo" = "Видалити фото";
+
+"remove_user_from_chat_msg" = "Видалити користувача %@ з чату?";
+
+"remove_user_from_chat_title" = "Видалити користувача";
+
+"remove_users_not_support" = "Видалення контактів ще не підтримується сервером";
+
+"rerecord" = "Перезаписати";
+
+"restart_now_ios" = "Перезапустити";
+
+"save" = "Зберегти";
+
+"saving" = "Збереження...";
+
+"saving_msg" = "Збереження...";
+
+"scan_qr" = "Сканувати код";
+
+"scan_qr_stop_ios" = "Скасувати сканування";
+
+"scroll_to_bottom_title" = "Прокрутити вниз";
+
+"search_by_name" = "Пошук за ім'ям";
+
+"search_chats_ios" = "ЧАТИ";
+
+"search_contacts_ios" = "КОНТАКТИ";
+
+"select_from_gallery" = "Вибрати з галереї";
+
+"select_user" = "Виберіть хоча б одного співрозмовника";
+
+"select_users" = "Виберіть учасників";
+
+"send" = "Надіслати ";
+
+"send_audio" = "Надіслати\nаудіо";
+
+"send_media_ios" = "Надіслати медіа";
+
+"send_photo" = "Фото";
+
+"send_photo_question_ios" = "Ви хочете надіслати цю фотографію?";
+
+"send_read_ios" = "Надсилати статус \«Прочитано\»";
+
+"send_video" = "Надіслати\nаудіо";
+
+"services_invalidate_msg" = "Ця послуга тимчасово не працює";
+
+"settings" = "Налаштування";
+
+"add_business" = "Додати бізнес";
+
+"share_ios" = "Публічній профіль";
+
+"shop" = "Магазин";
+
+"silent_notifications_ios" = "Звук нотифікацій";
+
+"smilies_development_msg" = "Смайли знаходяться на стадії розробки";
+
+"sound_notifications_setting_btn" = "Звук";
+
+"start_chat_with_msg" = "Ви почали чат з";
+
+"started_chat_with_msg_ios" = "%@ Ви почали розмову з %@";
+
+"status_deliv" = "Доставлено";
+
+"status_read" = "Переглянуто";
+
+"status_sending" = "Надсилається...";
+
+"status_sent" = "Надіслано";
+
+"sticker_msg_ph" = "[стикер]";
+
+"stop_recording" = "Завершити запис";
+
+"sync_preloader" = "Синхронізація...";
+
+"take_image_err" = "Помилка отримання зображення";
+
+"take_photo" = "Зробити фото";
+
+"tell_friend" = "Розповісти друзям про Sender";
+
+"tips_header_ios" = "Спілкуйтесь у Sender швидко та легко!";
+
+"today" = "Сьогодні";
+
+"transfer" = "Переказати";
+
+"try_again_err" = "Помилка, спробуйте пізніше";
+
+"twitch" = "Збадьорити";
+
+"twitch_ios" = "Збадьорити";
+
+"unknown_user" = "Невідомий співрозмовник";
+
+"uploading_msg" = "Завантаження...";
+
+"user_add_to_chat_msg" = "додано в чат";
+
+"user_del_from_chat_msg" = "видалено з чату";
+
+"user_typing" = "друкує";
+
+"user_typing_ios" = "%@ набирає...";
+
+"vibro_chat" = "Віброчат";
+
+"vibro_setting" = "Вібрація";
+
+"video" = "Відео\nповідомлення";
+
+"video_msg_ph" = "[відео]";
+
+"voice" = "Аудіо\nповідомлення";
+
+"wait_msg" = "Почекайте...";
+
+"welcome_ios" = "Вітаємо в Sender";
+
+"yes" = "Так";
+
+"yesterday" = "Вчора";
+
+"you" = "Я";
+
+"me_ntf" = "Ви";
+
+"you_add_to_chat_msg" = "Вас додали в чат";
+
+"you_del_from_chat_msg" = "Вас видалили з чату";
+
+"you_have_gcm" = "У вас є";
+
+"you_leave_chat_msg" = "Ви залишили чат";
+
+"yourself_dlg_err" = "Вт не можете створити діалог із самим собою";
+
+"vibro_notifications_ios" = "Вібрація";
+"flash_notifications_ios" = "Спалах";
+
+"unread_messages_notification_ios" = "У вас є непрочитані повідомлення";
+
+"connecting_ios" = "З'єднання...";
+
+"tic_tac_toe_ios" = "Хрестики-нулики";
+"winnie_the_pooh_ios" = "Вінні-Пух";
+"chess_ios" = "Шахи";
+
+"transfer_ios" = "Переказати / Отримати";
+
+"reg_success_ios" = "Поздоровляем, ви заєреструвались у SENDER!";
+
+"wait_ivr_ios" = "Протягом 3-х хвилин на телефон %@ зателефонують. Дайте відповідь на дзвінок і підтвердіть вхід.";
+
+"terms_conditions_ios" = "Умови користування додатком";
+
+"terms_file_name_ios" = "terms_and_conditions_uk";
+
+"lst_msg_text_for_lc_image_msg_ph_ios" = "Фото";
+
+"lst_msg_text_for_lc_sticker_msg_ph_ios" = "Стікер";
+
+"lst_msg_text_for_lc_form_msg_ph_ios" = "Форма";
+
+"lst_msg_text_for_lc_video_ios" = "Відео";
+
+"lst_msg_text_for_lc_location_ios" = "Розміщення";
+
+"lst_msg_text_for_lc_voice_message_ios" = "Аудіоповідомлення";
+
+"lst_msg_text_for_lc_vibro_msg_ph_ios" = "Віброчат";
+
+"lst_msg_text_for_lc_file_ios" = "Файл";
+
+"lst_msg_text_for_lc_encrypted_text_ios" = "Зашифроване повідомлення";
+
+"contact_name_ph_ios" = "Ім'я";
+
+"contact_info_ph_ios" = "Додаткова інформація";
+
+"fast_navigation_ios" = "Швидкий перехід між екранами";
+
+"comfortable_console_ios" = "Зручна та функціональна консоль";
+
+"easy_company_access_ios" = "Простий доступ до компаній у вашій адресній книзі";
+
+"dismiss_ios" = "Сховати";
+
+"launching_app_ios" = "Запуск додатку";
+
+"contact_sync_ios" = "Синхронізація контактів";
+
+"chat_sync_ios" = "Синхронізація чатів";
+
+"preparing_ios" = "Підготовка додатку";
+
+"favorite_contacts_ios" = "Обрані";
+"sender_contacts_ios" = "Люди";
+"companies_contacts_ios" = "Бізнес";
+"other_contacts_ios" = "Інші";
+"groups_contacts_ios" = "Груповi";
+
+"act_block_user_ios" = "Заблокувати";
+"complain_ios" = "Поскаржитись";
+"complaint_reason_ios" = "Причина скарги";
+
+"blocked_users_ios" = "Чорний список";
+"act_unblock_user_ios" = "Разблокувати";
+
+"accept_ios" = "Прийняти";
+"decline_ios" = "Відхилити";
+
+"transfer_menu_ios" = "Грошові\nперекази";
+"refill_menu_ios" = "Поповнення\nтелефону";
+"qr_menu_ios" = "QR\nавторизація";
+"wallet_menu_ios" = "Мої\nкартки";
+
+"error_public_chat_with_company_ios" = "Ви не можете додати більше однієї компанії в чат";
+
+"select_person_ios" = "Оберіть хоча б одного користувача";
+
+"add_contact_wrong_number_title_ios" = "Неможливо додати контакт";
+"add_contact_wrong_number_desc_ios" = "Щоб додати контакт, введіть його ім'я, а так же номер телефону в міжнародному форматі";
+
+"location_settings_title_ios" = "Відстеження геолокації";
+"sound_settings_title_ios" = "Звук";
+"reset_settings_title_ios" = "скидання";
+
+"add_participant_ios" = "Додати учасника";
+"leave_chat_ios" = "Покинути чат";
+"set_favorite" = "Додати в обрані";
+"remove_favorite" = "Прибрати з обраних";
+"turn_on" = "Включити";
+"turn_off" = "Відключити";
+"messages" = "Повідомлення";
+"sound" = "Звук";
+"search" = "Пошук";
+
+"select_user_ios" = "Виберіть контакт";
+"select_users_ios" = "Виберіть контакти";
+
+"edit_chat_ios" = "Редагувати чат";
+
+"new_contact_phone_ph_ios" = "Телефон";
+
+"online" = "У мережі";
+"offline" = "Не в мережі";
+
+"chat_name_ios" = "Назва чату";
+"add_to_contacts_ios" = "Додати в контакти";
+
+"leave_chat_specific_ios" = "Покинути чат \"%@?\"";
+"leave_chat_specific_message_ios" = "Ви впевнені, що хочете покинути чат \"%@\"?";
+
+"delete_chat_specific_ios" = "Удалить чат \"%@?\"";
+"delete_chat_specific_message_ios" = "Ви впевнені, що хочете видалити чат \"%@\"?";
+
+"notification_preview_show" = "Відображати текст в нотифікаціях";
+"notification_preview_hide" = "Сховувати текст в нотифікаціях";
+
+"speaker_ios" = "Динамік";
+"record_call_ios" = "Записати розмову";
+"stop_record_call_ios" = "Зупинити запис";
+
+"Location Permission Title" = "Використання геолокації";
+"Location Permission Text" = "Включення геолокації відкриває доступ до додаткових функцій додатка, наприклад \"Поділитися своїм місцеположенням\" або \" Замовлення таксі \". Всі передані дані конфіденційні і не будуть доступні третім особам без згоди користувача.";
+
+"pull_to_load_history" = "Потягніть для завантаження історії";
+
+//QR
+
+"qr_my_number_tip" = "після сканування ви будете додані в контакти";
+"qr_title_my_code" = "Мій QR Код";
+"qr_title_scan" = "Сканувати QR Код";
+"qr_title_show_code" = "Показати QR Код";
+
+//Bitcoin
+
+"bitcoin_wallet" = "Bitcoin Гаманець";
+"bitcoin_error_not_enough_funds" = "У вас недостатньо коштів на Bitcoin гаманці";
+"bitcoin_error_unknown" = "Неможливо здійснити вашу транзакцію в даний момент. Будь ласка, повторіть пізніше";
+
+"Bitcoin allert text1" = "У Вас уже есть Bitcoin кошелек в системе SENDER.\nДля его активации пройдите процедуру экпорта кошелька в настройках (Главная страница - настройки - Bitcoin wallet) на ранее зарегистрированном устройстве.\nАктивация кошелька даст доступ к таким функиям приложения как оплата в сети Bitcoin и шифрование сообщений.\nВы можете сделать это позже, в любое удобное время.";
+
+"Bitcoin allert text2" = "Bitcoin wallet успешно создан!\nТеперь у вас есть доступ к таким функиям приложения как оплата в сети Bitcoin и шифрование сообщений.";
+
+"bitcoin_wallet_export" = "Експортувати гаманець";
+"bitcoin_wallet_import" = "Імпортувати гаманець";
+"bitcoin_wallet_create_new" = "Створити новий гаманець";
+
+"bitcoin_wallet_sync_title" = "Імпорт гаманця";
+"bitcoin_wallet_import_title" = "Імпорт гаманця";
+"bitcoin_wallet_export_title" = "Експорт гаманця";
+
+"bitcoin_create_new_alert_title" = "Створити новий гаманець";
+"bitcoin_create_new_alert_message" = "Якщо ви створите новий гаманець, він замінить вже наявний у вас. Всі кошти на поточному гаманці будуть втрачені. Ви впевнені, що хочете створити новий?";
+"bitcoin_create_button_text" = "Видалити і створити новий";
+
+"Bitcoin export complite" = "Експорт кошелька успешно завершен";
+"Bitcoin import complite" = "Импорт кошелька успешно завершен";
+
+"bitcoin_address" = "Адреса:";
+
+"btc_ccy" = "btc";
+"usd_ccy" = "usd";
+
+"bitcoin_getting_balance" = "Отримання балансу...";
+
+"bitcoin_enter_word" = "Введіть слово";
+"bitcoin_enter_word_count_text" = "Слів %@ из %@";
+
+"bitcoin_wrong_mnemonic_title" = "Неправильний формат мнемоніки";
+"bitcoin_wrong_mnemonic_message" = "Перевірте введені слова і спробуйте знову";
+
+"bitcoin_import_button_text" = "Видалити і імпортувати новий";
+"bitcoin_import_alert_title" = "Імпортувати новий гаманець";
+"bitcoin_import_alert_message" = "Якщо ви імпортуйте новий гаманець, він замінить вже наявний у вас. Всі кошти на поточному гаманці будуть втрачені. Ви впевнені, що хочете імпортувати гаманець?";
+
+"bitcoin_cannot_get_wallet" = "Дані не доступні в даний момент";
+"bitcoin_no_address" = "Немає адреси";
+
+"bitcoin_enter_password_title" = "Введіть ключ Електронного цифрового підпису (ЕЦП)";
+"bitcoin_enter_password_message" = "Введіть ключ ЕЦП, який ви створили при реєстрації";
+"bitcoin_enter_password_textfield_placeholder" = "Пароль";
+"bitcoin_enter_password_submit_button_title" = "Прийняти";
+
+"bitcoin_change_synchronization_password" = "Змінити ключ ЕЦП";
+"bitcoin_enter_remote_synchronization_password" = "Введіть ключ ЕЦП, створений на іншому пристрої";
+"bitcoin_enter_local_synchronization_password" = "Введіть ключ ЕЦП, встановлений на цьому пристрої";
+"bitcoin_enter_synchronization_password" = "Введіть ключ Електронного цифрового підпису (ЕЦП)";
+"bitcoin_enter_old_password" = "Введіть ваш поточний ключ ЕЦП";
+"bitcoin_enter_new_password" = "Введіть ваш новий ключ ЕЦП";
+"bitcoin_repeat_new_password" = "Повторіть ваш новий ключ ЕЦП";
+
+"bitcoin_use_current_wallet" = "Використовувати поточний гаманець";
+
+"bitcoin_entered_wrong_password" = "Ви ввели неправильний ключ ЕЦП";
+"bitcoin_entered_passwords_not_match" = "Ключ ЕЦП не збігається з тим, який ви ввели на попередньому кроці";
+
+"bitcoin_remote_wallet" = "Гаманець на сервері (Рекомендовано)";
+"bitcoin_local_wallet" = "Гаманець на цьому пристрої";
+"bitcoin_new_wallet" = "Новий гаманець";
+"bitcoin_accept" = "Прийняти";
+
+"bitcoin_need_sync_alert_title" = "Щось змінилося";
+"bitcoin_need_sync_alert_message" = "У ваш bitcoin-гаманець були внесені зміни. Введіть ключ ЕЦП, встановлений на цьому пристрої для використання шифрованих чатів.";
+"bitcoin_need_sync_go_to_settings" = "Перейти в Налаштування";
+"bitcoin_need_sync_later" = "Синхронізувати Пізніше";
+
+"bitcoin_password" = "Пароль";
+
+//Password Creation
+
+"use_long_password" = "Use long password";
+"use_short_password" = "Use short password";
+"wrong_bitcoin_password_format" = "Пароль повинен містити мінімум 4 символа";
+"enter_bitcoin_password" = "Введіть пароль синхронізації пристроїв";
+"enter_sync_pass" = "Створіть пароль для синхронізації";
+"create_pass_descr" = "* Запам'ятайте цей пароль. Нікому не розкривайте його. Пароль використовується для відновлення особистих даних і синхронізації Ваших нових пристроїв. Ніяка інформація про пароль не передається на сервер.";
+"enter_pass_descr" = "* Введіть пароль, який був створений при першій активації SENDER для розшифровки ваших особистих даних, таких як ключі шифрування і платіжний гаманець. Ніяка інформація про пароль не передається на сервер.";
+
+"Encryption" = "Шифрування";
+"Create password" = "Введите пароль";
+
+"Confirm password" = "Подтвердите пароль";
+"Enter synchronization password" = "Введіть пароль";
+"Пароль не совпадает" = "Пароль не збігається";
+"Password is too short" = "Пароль занадто короткий";
+"Minimum length of 4 characters" = "Мінімальна довжина 4 символв";
+"Message deleted" = "Це повідомлення було видалено";
+
+//Auth server errors
+
+"error_send_ivr" = "Помилка сервісу IVR";
+"error_count_otp" = "Перевищена кількість спроб введення смс-кода";
+"error_timeout_otp" = "Ви перевищили час очікування введення смс-коду";
+"error_wrong_otp" = "Ви ввели невірний смс-код";
+"error_blocked" = "На жаль, не вдалося увійти в SENDER. Будь ласка, спробуйте пізніше";
+"error_wrong_phone" = "Введіть телефонний номер у міжнародному форматі";
+"error_timeout" = "Час, відведений на проходження авторизації минув";
+"error_unknown" = "Помилка авторизації. Будь ласка, спробуйте пізніше";
+
+//Chat Settings
+
+"chat_settings_members" = "Співрозмовники";
+"chat_settings_encryption" = "Шифрування";
+"chat_settings_add_participant" = "Додати співрозмовника";
+"chat_settings_favorite_chat" = "Обраний";
+"chat_settings_block" = "Блокувати";
+"chat_settings_sound_scheme" = "Звукова схема";
+"chat_settings_sound" = "Виключити звук";
+"chat_settings_notifications" = "Виключити сповіщення";
+"chat_settings_smart_notifications" = "Розумні сповіщення";
+"chat_settings_hide_text" = "Приховувати текст";
+"chat_settings_counter" = "Приховувати лічильник";
+
+"chat_settings_all_devices" = "Всі пристрої";
+"chat_settings_this_device" = "Цей пристрій";
+"chat_settings_disabled" = "Ні";
+
+"chat_settings_sound_scheme_default" = "За замовчуванням";
+"chat_settings_sound_scheme_business" = "Бізнес";
+"chat_settings_sound_scheme_personal" = "Приватне";
+"chat_settings_sound_scheme_alert" = "Тривога";
+
+//Enter Phone Number
+
+"enter_phone_title" = "Перевірте код країни і введіть номер телефону";
+"user_agreement_hint" = "Натискаючи кнопку \"ПРОДОВЖИТИ\", Ви підтверджуєте, що прочитали і згодні з";
+"user_agreement_name" = "Угодою користувача";
+"default_country_name" = "Інша";
+"user_agreement_title" = "Угода";
+
+//Global Search
+
+"global_search_separator_title" = "Глобальний пошук";
+
+//Chat
+
+"unable_to_edit_message_title" = "Неможливо відредагувати повідомлення";
+"unable_to_delete_message_title" = "Неможливо видалити повідомлення";

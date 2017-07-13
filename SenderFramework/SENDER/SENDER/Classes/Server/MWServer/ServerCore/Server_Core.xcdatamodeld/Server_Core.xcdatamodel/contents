@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15D21" minimumToolsVersion="Xcode 7.0">
+    <entity name="QueueItem" representedClassName="QueueItem" parentEntity="ServerQueues" syncable="YES">
+        <attribute name="cidID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="complitionHandler" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="itemData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="pathUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="postData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="storedTaskData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="taskState" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="relationship" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="ServerQueues" inverseName="queueitems" inverseEntity="ServerQueues" syncable="YES"/>
+    </entity>
+    <entity name="ServerQueues" representedClassName="ServerQueues" syncable="YES">
+        <relationship name="queueitems" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="QueueItem" inverseName="relationship" inverseEntity="QueueItem" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ServerQueues" positionX="-63" positionY="-18" width="128" height="60"/>
+        <element name="QueueItem" positionX="-54" positionY="-9" width="128" height="165"/>
+    </elements>
+</model>

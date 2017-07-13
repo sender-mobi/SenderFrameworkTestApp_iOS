@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="16B2555" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SBCoordinator">
+            <connections>
+                <outlet property="backButton" destination="nQg-LB-ri8" id="aSW-Kw-U5j"/>
+                <outlet property="firstLevelBackground" destination="tEi-bX-lrj" id="YIb-oU-MZc"/>
+                <outlet property="firstLevelBackgroundViewHeight" destination="gz6-mj-nNH" id="Bvc-YN-zmw"/>
+                <outlet property="firstLevelView" destination="BL5-AS-jBc" id="HQo-Yq-xpo"/>
+                <outlet property="pageControl" destination="KTc-Ix-rFe" id="nim-ms-pFn"/>
+                <outlet property="view" destination="BQO-Fz-cDM" id="hxZ-0a-Jhf"/>
+                <outlet property="zeroLevelView" destination="Pcz-uy-bdW" id="6Ph-PQ-Xj8"/>
+                <outlet property="zeroLevelViewHeight" destination="MdE-bJ-Ixl" id="dXG-M5-FcM"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="BQO-Fz-cDM">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="269"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Pcz-uy-bdW" userLabel="Zero Level">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="53"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="53" id="MdE-bJ-Ixl"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="tEi-bX-lrj">
+                    <rect key="frame" x="0.0" y="53" width="320" height="216"/>
+                    <subviews>
+                        <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BL5-AS-jBc" userLabel="First Level">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="216"/>
+                            <connections>
+                                <outlet property="delegate" destination="-1" id="7Gn-Ch-xwX"/>
+                            </connections>
+                        </scrollView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nQg-LB-ri8">
+                            <rect key="frame" x="0.0" y="172" width="44" height="44"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="KKg-tn-EuF"/>
+                                <constraint firstAttribute="width" constant="44" id="rjI-Jy-ikJ"/>
+                            </constraints>
+                            <state key="normal" image="_arrow_back"/>
+                        </button>
+                        <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="KTc-Ix-rFe">
+                            <rect key="frame" x="141" y="187" width="39" height="37"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="37" id="6KV-Qs-dMc"/>
+                                <constraint firstAttribute="width" constant="39" id="PQV-gg-7B0"/>
+                            </constraints>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="PQV-gg-7B0"/>
+                                </mask>
+                            </variation>
+                        </pageControl>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="nQg-LB-ri8" firstAttribute="leading" secondItem="tEi-bX-lrj" secondAttribute="leading" id="BoX-XB-uN2"/>
+                        <constraint firstAttribute="centerX" secondItem="KTc-Ix-rFe" secondAttribute="centerX" id="HdN-NY-3Bt"/>
+                        <constraint firstAttribute="bottom" secondItem="KTc-Ix-rFe" secondAttribute="bottom" constant="-8" id="KJV-Kt-juj"/>
+                        <constraint firstItem="BL5-AS-jBc" firstAttribute="top" secondItem="tEi-bX-lrj" secondAttribute="top" id="PsC-Im-RBG"/>
+                        <constraint firstAttribute="trailing" secondItem="BL5-AS-jBc" secondAttribute="trailing" id="Y0g-4O-ZNQ"/>
+                        <constraint firstAttribute="height" constant="216" id="gz6-mj-nNH"/>
+                        <constraint firstAttribute="bottom" secondItem="nQg-LB-ri8" secondAttribute="bottom" id="jYa-eK-75t"/>
+                        <constraint firstAttribute="bottom" secondItem="BL5-AS-jBc" secondAttribute="bottom" id="xR0-g8-7UF"/>
+                        <constraint firstItem="BL5-AS-jBc" firstAttribute="leading" secondItem="tEi-bX-lrj" secondAttribute="leading" id="ycn-Yg-uRi"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="gz6-mj-nNH"/>
+                        </mask>
+                    </variation>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="Pcz-uy-bdW" secondAttribute="trailing" id="Ion-6L-IdS"/>
+                <constraint firstAttribute="bottom" secondItem="tEi-bX-lrj" secondAttribute="bottom" id="O6q-F5-u5u"/>
+                <constraint firstItem="Pcz-uy-bdW" firstAttribute="leading" secondItem="BQO-Fz-cDM" secondAttribute="leading" id="RV9-ZW-lMM"/>
+                <constraint firstAttribute="trailing" secondItem="tEi-bX-lrj" secondAttribute="trailing" id="c1Z-I6-cMj"/>
+                <constraint firstItem="tEi-bX-lrj" firstAttribute="leading" secondItem="BQO-Fz-cDM" secondAttribute="leading" id="eaV-wL-3jo"/>
+                <constraint firstItem="Pcz-uy-bdW" firstAttribute="top" secondItem="BQO-Fz-cDM" secondAttribute="top" id="jgJ-cA-Cep"/>
+                <constraint firstItem="tEi-bX-lrj" firstAttribute="top" secondItem="Pcz-uy-bdW" secondAttribute="bottom" id="rwD-IJ-wQK"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="284" y="350.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="_arrow_back" width="30" height="30"/>
+    </resources>
+</document>

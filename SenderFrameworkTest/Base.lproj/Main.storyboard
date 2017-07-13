@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5f9-i7-eok">
+                                <rect key="frame" x="16" y="390" width="77" height="30"/>
+                                <state key="normal" title="Go To Chat"/>
+                                <connections>
+                                    <action selector="goToChat:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cEW-uE-hcv"/>
+                                </connections>
+                            </button>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="MCa-N0-S2y">
+                                <rect key="frame" x="16" y="352" width="343" height="30"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ChatID:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="x0a-bW-dxt">
+                                <rect key="frame" x="158" y="323" width="58" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gL4-jH-5Fi">
+                                <rect key="frame" x="215" y="390" width="148" height="30"/>
+                                <state key="normal" title="Add Unread Message"/>
+                                <connections>
+                                    <action selector="addUnreadMessage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="iX8-4o-KIS"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Unread Count:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gz0-Vv-Wd8">
+                                <rect key="frame" x="16" y="444" width="112" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rmU-3T-6St">
+                                <rect key="frame" x="352" y="444" width="11" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AtU-je-zbW">
+                                <rect key="frame" x="136" y="473" width="103" height="30"/>
+                                <state key="normal" title="Show Chat List"/>
+                                <connections>
+                                    <action selector="showChatList:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cde-Hs-LQN"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cjh-63-Hap">
+                                <rect key="frame" x="146" y="521" width="82" height="30"/>
+                                <state key="normal" title="QR Scanner"/>
+                                <connections>
+                                    <action selector="scanQR:" destination="BYZ-38-t0r" eventType="touchUpInside" id="1yV-r5-6pB"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="AtU-je-zbW" firstAttribute="top" secondItem="gz0-Vv-Wd8" secondAttribute="bottom" constant="8" id="3ka-80-VyU"/>
+                            <constraint firstItem="MCa-N0-S2y" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="6sa-UD-vUl"/>
+                            <constraint firstAttribute="trailing" secondItem="rmU-3T-6St" secondAttribute="trailing" constant="12" id="A0v-ho-JwN"/>
+                            <constraint firstItem="rmU-3T-6St" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="gz0-Vv-Wd8" secondAttribute="trailing" id="Bac-On-9ba"/>
+                            <constraint firstItem="AtU-je-zbW" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Eop-mo-7Wz"/>
+                            <constraint firstItem="x0a-bW-dxt" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="IsQ-u5-Lui"/>
+                            <constraint firstItem="gz0-Vv-Wd8" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="KuQ-UT-etw"/>
+                            <constraint firstItem="5f9-i7-eok" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="L67-q4-jJp"/>
+                            <constraint firstAttribute="trailing" secondItem="gL4-jH-5Fi" secondAttribute="trailing" constant="12" id="Lkt-SW-esn"/>
+                            <constraint firstItem="gL4-jH-5Fi" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="5f9-i7-eok" secondAttribute="trailing" id="NIF-Wj-Qnf"/>
+                            <constraint firstItem="x0a-bW-dxt" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Qfi-QN-Mkd"/>
+                            <constraint firstItem="gz0-Vv-Wd8" firstAttribute="top" secondItem="5f9-i7-eok" secondAttribute="bottom" constant="24" id="RtX-uO-eQ4"/>
+                            <constraint firstItem="MCa-N0-S2y" firstAttribute="top" secondItem="x0a-bW-dxt" secondAttribute="bottom" constant="8" id="VJW-bv-HHO"/>
+                            <constraint firstItem="gL4-jH-5Fi" firstAttribute="top" secondItem="MCa-N0-S2y" secondAttribute="bottom" constant="8" id="a49-Sb-idt"/>
+                            <constraint firstItem="5f9-i7-eok" firstAttribute="top" secondItem="MCa-N0-S2y" secondAttribute="bottom" constant="8" id="ggE-cy-Cck"/>
+                            <constraint firstItem="Cjh-63-Hap" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="iHZ-1c-eeE"/>
+                            <constraint firstItem="rmU-3T-6St" firstAttribute="top" secondItem="gL4-jH-5Fi" secondAttribute="bottom" constant="24" id="mxa-Qa-cmo"/>
+                            <constraint firstItem="Cjh-63-Hap" firstAttribute="top" secondItem="AtU-je-zbW" secondAttribute="bottom" constant="18" id="q13-RC-fee"/>
+                            <constraint firstItem="MCa-N0-S2y" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="w7w-VO-Zmt"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="chatIDTextField" destination="MCa-N0-S2y" id="PDH-cU-9oA"/>
+                        <outlet property="unreadCountLabel" destination="rmU-3T-6St" id="eXh-6t-GqD"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="286" y="162"/>
+        </scene>
+    </scenes>
+</document>

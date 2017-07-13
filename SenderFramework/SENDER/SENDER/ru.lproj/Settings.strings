@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Location Services"; ObjectID = "0Jl-eD-tak"; */
+"0Jl-eD-tak.text" = "Location Services";
+
+/* Class = "UILabel"; text = "Blocked Users"; ObjectID = "4Hq-se-q64"; */
+"4Hq-se-q64.text" = "Blocked Users";
+
+/* Class = "UILabel"; text = "Notifications sound"; ObjectID = "6r3-kV-egF"; */
+"6r3-kV-egF.text" = "Notifications sound";
+
+/* Class = "UITableViewSection"; headerTitle = "Reset"; ObjectID = "8tU-Ha-L07"; */
+"8tU-Ha-L07.headerTitle" = "Reset";
+
+/* Class = "UILabel"; text = "Notifications flash"; ObjectID = "AJ0-oH-3iP"; */
+"AJ0-oH-3iP.text" = "Notifications flash";
+
+/* Class = "UITableViewSection"; headerTitle = "General"; ObjectID = "DTj-WT-sBc"; */
+"DTj-WT-sBc.headerTitle" = "General";
+
+/* Class = "UILabel"; text = "Disable device"; ObjectID = "JI2-wt-eGu"; */
+"JI2-wt-eGu.text" = "Disable device";
+
+/* Class = "UILabel"; text = "Sound"; ObjectID = "YAX-Rh-hKj"; */
+"YAX-Rh-hKj.text" = "Sound";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Zte-3b-mzW"; */
+"Zte-3b-mzW.text" = "English";
+
+/* Class = "UILabel"; text = "Clear all history"; ObjectID = "bQy-0Y-8fe"; */
+"bQy-0Y-8fe.text" = "Clear all history";
+
+/* Class = "UILabel"; text = "Notifications vibration"; ObjectID = "g4e-6b-NLq"; */
+"g4e-6b-NLq.text" = "Notifications vibration";
+
+/* Class = "UILabel"; text = "Send \"Read\" Status"; ObjectID = "ghv-tq-bqQ"; */
+"ghv-tq-bqQ.text" = "Send \"Read\" Status";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "jWA-ti-hu6"; */
+"jWA-ti-hu6.title" = "Settings";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "mOl-Ut-TPf"; */
+"mOl-Ut-TPf.text" = "Language";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "oMW-RE-13Z"; */
+"oMW-RE-13Z.text" = "5";
+
+/* Class = "UITableViewSection"; headerTitle = "Sound"; ObjectID = "t5d-xS-mSj"; */
+"t5d-xS-mSj.headerTitle" = "Sound";
+
+/* Class = "UITableViewController"; title = "Main Settings"; ObjectID = "xO8-kU-SAU"; */
+"xO8-kU-SAU.title" = "Main Settings";
